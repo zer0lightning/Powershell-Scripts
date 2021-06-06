@@ -1,5 +1,5 @@
 ﻿# ---------------------------------------------------
-# Script: WinKeys.ps1
+# Script: WinKeys.ps1 | Reset Graphics Hotkeys
 # Version: 0.2
 # Author: Stefan Stranger
 # Date: 09-08-2013
